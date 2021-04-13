@@ -3,6 +3,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatgjadhav&theme=tokyonight)
 
+<h1>I'm a software engineer who is passionate💖 about JavaScript Full Stack Web Development.<h1>
+Currently working as an intern at Sathvik Softech, a start-up,
+since six months on end-to-end website development.
+
 <!--
 **Bharatgjadhav/Bharatgjadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
