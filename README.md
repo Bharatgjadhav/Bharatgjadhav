@@ -10,7 +10,10 @@ since six months on end-to-end website development.<p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatgjadhav&theme=tokyonight)
 <br/>
 **- 🔭 I’m currently focussing on ...**
- React.js,vue.js,sql,problem solving.
+
+
+         React.js,vue.js,sql,problem solving.
+<br />
 
 <!--
 **Bharatgjadhav/Bharatgjadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
