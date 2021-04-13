@@ -8,7 +8,7 @@ since six months on end-to-end website development.<p>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharatgjadhav&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatgjadhav&theme=tokyonight)
-<br/>
+
 **- 🔭 I’m currently focussing on ...**
 
 
