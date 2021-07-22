@@ -23,6 +23,7 @@ My works
 leap year fouder : https://replit.com/@bharatjadhav/day-3-3-exercise?embed=I&output=I#main.py
 Pizza :https://replit.com/@bharatjadhav/day-3-4-exercise?embed=I&output=I#main.py
 CHeck your love score: https://replit.com/@bharatjadhav/day-3-5-exercise?embed=I&output=I#main.py
+         Treasure Game: https://replit.com/@bharatjadhav/treasure-island-start?embed=I&output=I#main.py
 <!--
 **Bharatgjadhav/Bharatgjadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
