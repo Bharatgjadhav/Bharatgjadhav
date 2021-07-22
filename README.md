@@ -19,6 +19,8 @@ since six months on end-to-end website development.<p>
          React.js,vue.js,sql,problem solving.
 <br />
 
+My works
+leap year fouder : https://replit.com/@bharatjadhav/day-3-3-exercise?embed=I&output=I#main.py
 <!--
 **Bharatgjadhav/Bharatgjadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,3 +35,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+         
+         
+   
