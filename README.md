@@ -24,6 +24,7 @@ My works
          Pizza :https://replit.com/@bharatjadhav/day-3-4-exercise?embed=I&output=I#main.py
          Check your love score: https://replit.com/@bharatjadhav/day-3-5-exercise?embed=I&output=I#main.py
          Treasure Game: https://replit.com/@bharatjadhav/treasure-island-start?embed=I&output=I#main.py
+         Head or Tails: https://replit.com/@bharatjadhav/day-4-1-exercise?embed=I&output=I#main.py
          
 
          
