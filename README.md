@@ -1,5 +1,10 @@
 ### Hi,I'm Bharat Jadhav 👋👨‍🎓‍💻
 
+ <p align="right"> 
+   <img src="https://komarev.com/ghpvc/?username=Irayya-Hiremath&label=Profile%20views&color=129e00&style=plastic" alt="Irayya-Hiremath"/> 
+   <img src="https://visitor-badge.glitch.me/badge?page_id=Irayya-Hiremath"/>
+ </p
+
 <br />
 <p>I'm a software engineer who is passionate💖 about JavaScript Full Stack Web Development</p>
 <br />
